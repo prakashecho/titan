@@ -1,5 +1,6 @@
 Saturn has many moons
 mimas
-dione
+phoebe
+pan
 rhea
 hyperion
